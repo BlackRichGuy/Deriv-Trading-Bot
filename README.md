@@ -4,10 +4,10 @@ Transforming the way traders operate with advanced, open-source bots for Deriv a
 
 If you're looking to level up your trading game without spending a fortune on tools, I’ve put together a collection of free, open-source trading bots that you can use completely at your own discretion. These bots are designed to help you automate your strategies, save time, and potentially scale your profits far beyond what manual trading alone can achieve.
 
-# 👉 Trade for free using high quality bots:
+# 👉 Tested Free Deriv Binary Bots, strategies, Classes and automated Analysistool:
 https://t.me/DerivBinaryAlpha
 
-# Free Trading Bots Repository - Automate Your Trading the Smart Way
+# Free Automated Trading Bots Repository - Automate Your Trading the Smart Way
 
 Welcome to a growing library of free trading bots built for traders who want results without the usual high costs. Whether you're into Forex, Synthetic indices, Crypto, or traditional markets, you'll find bots tailored to a wide range of platforms and strategies.
 
@@ -33,5 +33,5 @@ Whether you're optimizing an existing strategy or looking to automate your entir
 
 Just check each bot’s folder for installation instructions and start exploring.
 
-# Join our Teelegram Community to get started:
+# Join our Deriv Telegram Community to get started:
 https://t.me/DerivBinaryAlpha
