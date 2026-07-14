@@ -1392,12 +1392,59 @@
                 </value>
               </block>
             </statement>
-            <next>
-              <block type="trade_again" id="c)S|KjoQdXc8l#J@5z3P"></block>
-            </next>
+            <next><variable>digit_0</variable>
+              <variable>digit_1</variable>
+            <variable>digit_2</variable>
+               <variable>digit_3</variable>
+      <variable>digit_4</variable>
+               <variable>digit_5</variable>
+           <variable>digit_6</variable>
+       <variable>digit_7</variable>
+           <variable>digit_8</variable>
+      <variable>digit_9</variable>
+     <variable>total_ticks</variable
+                            <variable>selected_digit</variable>
+        variable>confidence</variable>
+       <variable>bias_high</variable>
+          <variable>bias_low</variable>    
+          <block type="trade_again" id="c)S|KjoQdXc8l#J@5z3P"></block>
+           </next>
           </block>
         </statement>
       </block>
     </statement>
-  </block>
+  </block>    set digit_0 to 0
+<set digit_1 to 0
+<set digit_9 to 0
+<set total_ticks to 0
+<set confidence to 0
+<set bias_high to 0
+<set bias_low to 0
+set selected_digit to 5
 </xml>
+    <set last_digit = last digit
+change total_ticks by 1        
+  if last_digit = 0 → change digit_0 by 1
+if last_digit = 1 → change digit_1 by 1
+...
+if last_digit = 9 → change digit_9 by 1
+      set bias_low = digit_0 + digit_1 + digit_2 + digit_3 + digit_4
+set bias_high = digit_5 + digit_6 + digit_7 + digit_8 + digit_9
+if total_ticks > 30
+if bias_high > bias_low
+    set selected_digit = 4
+    set confidence = (bias_high / total_ticks) * 100
+else
+    set selected_digit = 5
+    set confidence = (bias_low / total_ticks) * 100
+    <value name="PREDICTION">
+  <block type="variables_get">
+    <field name="VAR">selected_digit</field>
+  </block>
+</value>if bias_high > bias_low
+    <purchase DIGITOVER
+else
+    purchase DIGITUNDER
+
+
+
