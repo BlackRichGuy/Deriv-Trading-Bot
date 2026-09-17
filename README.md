@@ -20,10 +20,15 @@ These tools are built by traders and developers from around the world fully open
 # How to Use the Bots 🚀 
 
 **1. Register:** [Create your account](https://track.deriv.com/_lR2frYEQAPRZl7VyVw174GNd7ZgqdRLk/1/) on Deriv to access the DBot platform.
+
 **2. Explore:** Browse our Full Index of Robots to find a strategy that fits your style.
+
 **3. Download:** Get the XML files from the Bots XML
+
 **4. Load:** Go to [Deriv DBot](https://bot.deriv.com) and upload the XML file.
+
 **5. Test:** ALWAYS start with a DEMO ACCOUNT. Study the bot's behavior before risking real capital.
+
 **6. Optimize:** Adjust parameters like Stake, Stop Loss, and Take Profit.
 
 # What You’ll Find Inside
