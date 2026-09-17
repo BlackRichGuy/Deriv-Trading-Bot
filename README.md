@@ -16,6 +16,16 @@ Welcome to a growing library of free trading bots built for traders who want res
 
 These tools are built by traders and developers from around the world fully open-source, transparent, and ready to use. No paywalls. No hidden subscriptions. Just effective automation you can test, tweak, and use as you grow your trading skills.
 
+
+# How to Use the Bots 🚀 
+
+**1. Register:** [Create your account](https://track.deriv.com/_lR2frYEQAPRZl7VyVw174GNd7ZgqdRLk/1/) on Deriv to access the DBot platform.
+**2. Explore:** Browse our Full Index of Robots to find a strategy that fits your style.
+**3. Download:** Get the XML files from the Bots XML
+**4. Load:** Go to [Deriv DBot](https://bot.deriv.com) and upload the XML file.
+**5. Test:** ALWAYS start with a DEMO ACCOUNT. Study the bot's behavior before risking real capital.
+**6. Optimize:** Adjust parameters like Stake, Stop Loss, and Take Profit.
+
 # What You’ll Find Inside
 
 Forex, Crypto, and Stock Trading Bots
@@ -36,5 +46,4 @@ Whether you're optimizing an existing strategy or looking to automate your entir
 
 Just check each bot’s folder for installation instructions and start exploring.
 
-# Join our Deriv Telegram Community to get started:
-https://t.me/DerivBinaryAlpha
+# Join our **[Deriv Telegram Community](https://t.me/DerivBinaryAlpha)** to get started
